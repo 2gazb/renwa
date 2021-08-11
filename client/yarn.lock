@@ -1510,13 +1510,6 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
-"@types/stylus@^0.48.31":
-  version "0.48.31"
-  resolved "https://registry.yarnpkg.com/@types/stylus/-/stylus-0.48.31.tgz#7675c3f25cac373ec21702694cdd51ca162b659d"
-  integrity sha512-pskI2ZCEcJoDutB84aHIHnsRM3GrjCSXMu9nHSvNJYGlJmzHUZ49ceGX3wshztuvPVM9CZahrJhwlRnU4+Ebbw==
-  dependencies:
-    "@types/node" "*"
-
 "@types/tapable@*":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@types/tapable/-/tapable-1.0.4.tgz#b4ffc7dc97b498c969b360a41eee247f82616370"
@@ -6355,9 +6348,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
