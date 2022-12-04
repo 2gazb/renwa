@@ -1510,13 +1510,6 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
-"@types/stylus@^0.48.31":
-  version "0.48.31"
-  resolved "https://registry.yarnpkg.com/@types/stylus/-/stylus-0.48.31.tgz#7675c3f25cac373ec21702694cdd51ca162b659d"
-  integrity sha512-pskI2ZCEcJoDutB84aHIHnsRM3GrjCSXMu9nHSvNJYGlJmzHUZ49ceGX3wshztuvPVM9CZahrJhwlRnU4+Ebbw==
-  dependencies:
-    "@types/node" "*"
-
 "@types/tapable@*":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@types/tapable/-/tapable-1.0.4.tgz#b4ffc7dc97b498c969b360a41eee247f82616370"
@@ -3431,9 +3424,9 @@ debug@^4.1.0, debug@^4.1.1:
     ms "^2.1.1"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.0:
   version "1.0.1"
